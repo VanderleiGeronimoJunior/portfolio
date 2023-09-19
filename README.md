@@ -13,7 +13,7 @@
 
 ## Sobre o Projeto
 
-Projeto onde é feito uma lista de tarefas usnado HTML, CSS e JavaScript. Com esse projeto usar recursos do JavaScript para inserir dinâmicamente tarefas a serem feitas como também, inserir eventos de click, manipulando o DOM com javaScript. Pratiquei o  uso de pseudos Elementos no CSS para criar um check na lista quando clicado.
+Esse é o projeto
 
 ## Objetivos
 
