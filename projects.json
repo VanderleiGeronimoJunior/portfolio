@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Landing Page Eletricista",
+      "image": "assets/landing-page-eletricista.png",
+      "tags": ["HTML", "CSS", "Responsividade"],
+      "link": "https://github.com/VanderleiGeronimoJunior/landing-page-eletricista/tree/master"
+    },
+      {
+      "name": "My Movie",
+      "image": "assets/my-movie.png",
+      "tags": ["API TMDB", "Carousel de Filmes", "Pre Loading"],
+      "link": "https://github.com/VanderleiGeronimoJunior/my-movie"
+    },
+      {
+      "name": "To Do List App",
+      "image": "assets/To-Do-List-App.png",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "link": "https://github.com/VanderleiGeronimoJunior/To-Do-List-App"
+    },
+      {
+      "name": "CSS Animation Effects",
+      "image": "assets/CSSAnimationEffects.png",
+      "tags": ["Animação em CSS", "Animação Usando JavaScrip", "Tansição em CSS", "Dark Mode"],
+      "link": "https://github.com/VanderleiGeronimoJunior/CSSAnimationEffects/tree/master"
+    },
+      {
+      "name": "Form Responsive",
+      "image": "assets/form-responsive.png",
+      "tags": ["HTML", "CSS", "brack point", "formulário responsivo"],
+      "link": "https://github.com/VanderleiGeronimoJunior/form-responsive/tree/master"
+    },
+      {
+      "name": "Cronometro Digital",
+      "image": "assets/Cronometro-digital.png",
+      "tags": ["HTML", "CSS", "JavaScript", "SetInterval", "Template String","Dark Mode"],
+      "link": "https://github.com/VanderleiGeronimoJunior/Cronometro-digital"
+    }
+  ]
