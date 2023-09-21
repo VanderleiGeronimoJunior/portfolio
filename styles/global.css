@@ -57,3 +57,34 @@
     font-size: 28px;
     font-weight: 600;
   }
+
+@media  (max-width: 1200px) {
+  .app{
+    grid-template-columns: auto 1fr;
+    gap: 40px;
+
+    margin: 120px 0;
+    /* background: #107fd2; */
+  }
+}
+
+@media  (max-width: 1080px) {
+  .app{
+    gap: 24px;
+  }
+}
+
+@media  (max-width: 768px) {
+  .app{
+    display: flex;
+    flex-direction: column;
+
+    margin: 40px 0;
+  }
+
+  @media  (max-width: 550px) {
+    .subTitle{
+      font-size: 24px;
+    }
+  }
+}
