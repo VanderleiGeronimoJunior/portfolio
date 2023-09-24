@@ -2,13 +2,15 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92c1beac-8934-4095-82f0-af67343ea67c/deploy-status)](https://app.netlify.com/sites/transcendent-yeot-2e0134/deploys)
 
-## 📋 Índice
+## Índice
+📋 
 
 - <a href="#sobre-o-projeto">Sobre o Projeto</a>
 - <a href="#objetivos">Objetivos</a>
 - <a href="#funcionalidades">Funcionalidades</a>
 - <a href="#captura-de-tela">Capitura de Tela</a>
 - <a href="#linguagens-utilizadas">Linguagens utilizadas</a>
+- <a href="#links-uteis">Links Uteis</a>
 - <a href="#autor">Autor</a>
 
 ## Sobre o Projeto
@@ -31,17 +33,17 @@ Esse é o projeto
 
 📸
 
-[⬆ Voltar ao topo](##Índice)<br>
+[⬆ Voltar ao topo](#índice)<br>
 
-#### To-Do-List-App
+#### Portfólio
 
-<img style="width:300px" src="./img/to-do-list-app.png" alt="tela do app">
+<img style="width:300px" src="#" alt="tela do app">
 
-<img style="width:300px" src="./img/aap-preenchido.png" alt="app preenchido">
+<img style="width:300px" src="#" alt="app preenchido">
 
 ## Demonstração
 
-Demontração :<a href="https://to-do-list-app-f0dc03.netlify.app/">To-Do-List-App</a>
+Demontração :<a href="#">Portfólio</a>
 
 ## Linguagens utilizadas
 
@@ -53,11 +55,10 @@ HTML | CSS | JavaScript
 
 🧑‍💻
 
-### Online Tutorials
+### Links Uteis
 
-- <a href="https://www.instagram.com/onlinetutorials_youtube/">instagram</a>
-- <a href="https://twitter.com/OnlineTutoria16">twitter</a>
-- <a href="http://www.onlinetutorialsweb.com">Website</a>
+- <a href="https://michalsnik.github.io/aos/">Animate On Scroll Library</a>
+
 
 
 ### Vanderlei Junior
