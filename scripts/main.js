@@ -29,12 +29,18 @@ const creatTags = (projectTag) => {
     return elemTags;
 }
 
-const creatProject = (project) => {
+const creatProject = (project, index) => {
     const elemProject = document.createElement('a');
 
     elemProject.setAttribute('href', project.link);
     elemProject.setAttribute('target', '_blank');
     elemProject.classList.add('project');
+
+    elemProject.setAttribute('data-aos', 'zoom-in-up');
+    elemProject.setAttribute('data-aos-duration', '800');
+    elemProject.setAttribute('data-aos-easing', 'ease-in-out');
+    elemProject.setAttribute('data-aos-offset', '-100');
+    elemProject.setAttribute('data-aos-delay', 300 * (index + 1));
     
    
     // Add Imagem de Capa
@@ -49,8 +55,8 @@ const creatProject = (project) => {
 
 const LoadProjects = (projects) => {
 
-    projects.forEach(project => {
-        elemProjects.appendChild(creatProject(project));
+    projects.forEach((project, index) => {
+        elemProjects.appendChild(creatProject(project, index));
     });
 }
 
