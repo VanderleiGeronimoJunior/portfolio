@@ -37,9 +37,9 @@ Esse é o projeto
 
 #### Portfólio
 
-<img style="width:300px" src="#" alt="tela do app">
+<img style="width:300px" src="./assets/tela-principal.png" alt="tela principal">
 
-<img style="width:300px" src="#" alt="app preenchido">
+<img style="width:300px" src="./assets/tela-projetos.png" alt="tela dos projetos">
 
 ## Demonstração
 
@@ -58,6 +58,7 @@ HTML | CSS | JavaScript
 ### Links Uteis
 
 - <a href="https://michalsnik.github.io/aos/">Animate On Scroll Library</a>
+- <a href="https://metatags.io/">metatags.io</a>
 
 
 
@@ -65,5 +66,6 @@ HTML | CSS | JavaScript
 
 - <a href="https://github.com/VanderleiGeronimoJunior">GitHub</a>
 - <a href="https://www.linkedin.com/in/vanderlei-junior-b9956686/">Linkedin</a>
+- <a href="https://vanderleijunior.netlify.app/">Site</a>
 
 [⬆ Voltar ao topo](#índice)<br>

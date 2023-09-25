@@ -16,7 +16,7 @@
   
     --link: #107fd2;
    
-    --background-card: #f2f2f2;
+    --background-card: #f1f1f1;
     --background-badge: #E6EEF5;
     --background-body: #e6e6e6;/*F2F5F9, 9fa3a8*/
   
@@ -36,10 +36,10 @@
   .app{
     display: grid;
     grid-template-columns: 460px 1fr;
-    gap: 48px;
+    gap: 32px;
 
     width: 100%;
-    max-width: 1080px;
+    max-width: 1300px;
     
     padding: 0 24px;
 
