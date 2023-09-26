@@ -14,7 +14,7 @@
 ## Sobre o Projeto
 
 Esse é o projeto onde eu mostro um pouco do meu esforço em aprender programação. Nele 
-é possivel ver os projetos que tenho trabalhado para melhorar meu conhecimento em HTML, CSS e JavaScrip.
+é possivel ver os projetos que tenho trabalhado para melhorar meu conhecimento em HTML, CSS e JavaScrip. Meu objetivo a principio é ganhar experiência com a base da programação e depois de adquirir uma boa base então, passar para REACT e NODE, NEXT.js.
 
 
 ## Captura de tela
