@@ -6,8 +6,6 @@
 📋 
 
 - <a href="#sobre-o-projeto">Sobre o Projeto</a>
-- <a href="#objetivos">Objetivos</a>
-- <a href="#funcionalidades">Funcionalidades</a>
 - <a href="#captura-de-tela">Capitura de Tela</a>
 - <a href="#linguagens-utilizadas">Linguagens utilizadas</a>
 - <a href="#links-uteis">Links Uteis</a>
@@ -15,19 +13,9 @@
 
 ## Sobre o Projeto
 
-Esse é o projeto
+Esse é o projeto onde eu mostro um pouco do meu esforço em aprender programação. Nele 
+é possivel ver os projetos que tenho trabalhado para melhorar meu conhecimento em HTML, CSS e JavaScrip.
 
-## Objetivos
-
-- Ganhar mais conhecimento em JavaScript.
-- Aprender mais sobre Eventos JavaScrip.
-- Aprendeer pseudo-elementos em CSS.
-
-## Funcionalidades
-
-1. É possível escrever a tarefa que pracisa fazer e ao usar a tecla Enter do teclado a tarefa é registrada na lista.
-2. Clicar na tarefa feita para marca-la como feita.
-3. Excluir a tarefa.
 
 ## Captura de tela
 
@@ -43,7 +31,7 @@ Esse é o projeto
 
 ## Demonstração
 
-Demontração :<a href="#">Portfólio</a>
+Demontração :<a href="https://vanderleijunior.netlify.app/">Portfólio</a>
 
 ## Linguagens utilizadas
 
