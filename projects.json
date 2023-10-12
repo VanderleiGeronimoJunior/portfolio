@@ -6,6 +6,12 @@
       "link": "https://github.com/VanderleiGeronimoJunior/landing-page-eletricista/tree/master"
     },
       {
+      "name": "Disney+ UI Clone Starter template",
+      "image": "assets/disneyplus.png",
+      "tags": ["Carousel de Filmes", "Efeito destaque das marcas"],
+      "link": "https://github.com/VanderleiGeronimoJunior/Disney--UI-Clone-Starter-template"
+    },
+      {
       "name": "My Movie",
       "image": "assets/my-movie.png",
       "tags": ["API TMDB", "Carousel de Filmes", "Pre Loading"],
