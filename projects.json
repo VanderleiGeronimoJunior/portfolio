@@ -49,7 +49,7 @@
     },
       {
       "name": "CRUD, Cadastro de Clientes",
-      "image": "assets/crud-com-cadastro.png",
+      "image": "assets/crud-com-cadastros.png",
       "tags": ["HTML", "CSS", "JavaScript","CRUD", "Cadastro Clientes", "LocalStorage"],
       "link": "https://mini-crud-2024.netlify.app/"
     },
