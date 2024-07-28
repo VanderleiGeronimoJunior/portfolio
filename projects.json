@@ -44,7 +44,7 @@
       {
       "name": "Ecommerce Website",
       "image": "assets/tela.png",
-      "tags": ["HTML", "CSS", "JavaScript", "Add to Cart", "Template String","Dark Mode"],
+      "tags": ["HTML", "CSS", "JavaScript", "Add to Cart", "Template String"],
       "link": "https://ecommerce-website-javascript2023.netlify.app"
     }
   ]
