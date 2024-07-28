@@ -40,5 +40,11 @@
       "image": "assets/Cronometro-digital.png",
       "tags": ["HTML", "CSS", "JavaScript", "SetInterval", "Template String","Dark Mode"],
       "link": "https://github.com/VanderleiGeronimoJunior/Cronometro-digital"
+    },
+      {
+      "name": "Ecommerce Website",
+      "image": "assets/tela.ong",
+      "tags": ["HTML", "CSS", "JavaScript", "Add to Cart", "Template String","Dark Mode"],
+      "link": "https://ecommerce-website-javascript2023.netlify.app"
     }
   ]
