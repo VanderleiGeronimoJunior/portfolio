@@ -46,5 +46,11 @@
       "image": "assets/tela.png",
       "tags": ["HTML", "CSS", "JavaScript", "Add to Cart", "Template String"],
       "link": "https://ecommerce-website-javascript2023.netlify.app"
+    },
+      {
+      "name": "CRUD, Cadastro de Clientes",
+      "image": "assets/crud-com-cadastro.png",
+      "tags": ["HTML", "CSS", "JavaScript","CRUD", "Cadastro Clientes", "LocalStorage"],
+      "link": "https://mini-crud-2024.netlify.app/"
     }
   ]
