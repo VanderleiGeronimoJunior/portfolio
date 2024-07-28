@@ -52,5 +52,11 @@
       "image": "assets/crud-com-cadastro.png",
       "tags": ["HTML", "CSS", "JavaScript","CRUD", "Cadastro Clientes", "LocalStorage"],
       "link": "https://mini-crud-2024.netlify.app/"
+    },
+      {
+      "name": "Quadro de Tarefas - (Trello)",
+      "image": "assets/qt-em-execucao.png",
+      "tags": ["HTML", "CSS", "JavaScript", "Drag-and-drop", "Draggable"],
+      "link": "https://mini-crud-2024.netlify.app/"
     }
   ]
