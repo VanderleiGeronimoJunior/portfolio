@@ -45,18 +45,18 @@
       "name": "Ecommerce Website",
       "image": "assets/tela.png",
       "tags": ["HTML", "CSS", "JavaScript", "Add to Cart", "Template String"],
-      "link": "https://ecommerce-website-javascript2023.netlify.app"
+      "link": "https://github.com/VanderleiGeronimoJunior/Ecommerce-Website-Using-HTML-CSS-And-JavaScript"
     },
       {
       "name": "CRUD, Cadastro de Clientes",
       "image": "assets/crud-com-cadastros.png",
       "tags": ["HTML", "CSS", "JavaScript","CRUD", "Cadastro Clientes", "LocalStorage"],
-      "link": "https://mini-crud-2024.netlify.app/"
+      "link": "https://github.com/VanderleiGeronimoJunior/mini-porjeto-CRUD"
     },
       {
       "name": "Quadro de Tarefas - (Trello)",
       "image": "assets/qt-em-execucao.png",
       "tags": ["HTML", "CSS", "JavaScript", "Drag-and-drop", "Draggable"],
-      "link": "https://mini-crud-2024.netlify.app/"
+      "link": "https://github.com/VanderleiGeronimoJunior/Quadro-de-Tarefas"
     }
   ]
